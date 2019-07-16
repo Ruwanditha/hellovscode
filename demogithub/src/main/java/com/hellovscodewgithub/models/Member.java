@@ -30,4 +30,3 @@ public class Member {
     private String email;
 
 }
-//view rawMember.java hosted with ❤ by GitHub
